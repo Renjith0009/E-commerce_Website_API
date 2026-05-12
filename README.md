@@ -1,3 +1,4 @@
+HEAD
 # Order API Project (Node.js + Express + MySQL)
 
 A simple RESTful API built using Node.js, Express.js, and MySQL to manage e-commerce orders with user and product relationships.
@@ -177,3 +178,8 @@ Location: Chennai, India
 - Make sure MySQL server is running
 - Ensure database name is ecommerce_db
 - Restart server after code changes
+
+
+# E-commerce_Website_API
+E-commerce Order API provides a robust foundation for managing order data efficiently, ensuring high performance, scalability, and ease of integration in real-world e-commerce applications.
+ 8326163fcb4472d7991bfe778c3d69dbd75fdd91
